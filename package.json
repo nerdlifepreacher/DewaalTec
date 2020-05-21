@@ -1,5 +1,5 @@
 {
-  "name": "dewaaltec",
+  "name": "pedagogy",
   "version": "1.0.0",
   "description": "",
   "main": "server/index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nerdlifepreacher/DewaalTec.git"
+    "url": "git+https://github.com/nerdlifepreacher/pedagogy.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nerdlifepreacher/DewaalTec/issues"
+    "url": "https://github.com/nerdlifepreacher/pedagogy/issues"
   },
-  "homepage": "https://github.com/nerdlifepreacher/DewaalTec#readme",
+  "homepage": "https://github.com/nerdlifepreacher/pedagogy#readme",
   "babel": {
     "presets": [
       "@babel/preset-env",
